@@ -102,7 +102,7 @@ body {
 /* Hero区域样式 */
 .hero {
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("static/image/background.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), img src="static/image/background.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -310,7 +310,7 @@ body {
     background: white;
     padding: 1.8rem;
     border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    box-shadow: 0 10px 30px rgba(255, 137, 46, 1);
     transition: all 0.3s ease;
     text-align: left;
 }
@@ -360,8 +360,8 @@ body {
     width: 100%;
     height: auto;
     display: block;
-    border-radius: 12px;
-    box-shadow: 0 20px 40px rgba(255,137,46,1);
+    border-radius: 36px;
+    box-shadow: 0 20px 40px rgba(0,0,0,2);
     aspect-ratio: 1080/1920;
 }
 
