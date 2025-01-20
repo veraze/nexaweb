@@ -310,7 +310,7 @@ body {
     background: white;
     padding: 1.8rem;
     border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(255, 137, 46, 1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
     transition: all 0.3s ease;
     text-align: left;
 }
@@ -354,8 +354,7 @@ body {
     position: relative;
     transform-style: preserve-3d;
     transition: transform 0.5s ease;
-    padding: 0; 
-    border: none;
+  
 }
 
 .app-screenshot img {
@@ -363,9 +362,9 @@ body {
     height: 100%;
     display: block;
     border-radius: 36px;
-    box-shadow: 0 20px 40px rgba(0,0,0,2);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.2);
     aspect-ratio: 1080/1920;
-    object-fit: cover; 
+    
 }
 
 /* 错层和倾斜效果 */
