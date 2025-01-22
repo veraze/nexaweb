@@ -51,7 +51,7 @@ body {
 .logo {
     font-size: 2rem;
     font-weight: 800;
-    background: linear-gradient(45deg, #ED9B26, #ff8533);
+    background: linear-gradient(45deg, #ed9b26, #f8ad3e);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: transform 0.3s ease;
@@ -86,13 +86,13 @@ body {
     left: 0;
     width: 0;
     height: 2px;
-    background: linear-gradient(45deg, #ED9B26, #ff8533);
+    background: linear-gradient(45deg, #ed9b26, #f8ad3e);
     transition: width 0.3s ease;
     box-shadow: 0 0 10px rgba(255, 107, 0, 0.5);
 }
 
 .nav-links a:hover {
-    color: #ED9B26;
+    color: #ed9b26;
 }
 
 .nav-links a:hover::after {
@@ -153,7 +153,7 @@ body {
     font-size: 5rem;
     font-weight: 800;
     margin-bottom: 1rem;
-    background: linear-gradient(45deg, #fff, #ED9B26);
+    background: linear-gradient(45deg, #fff, #ed9b26);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-shadow: 0 0 30px rgba(255,107,0,0.5);
@@ -322,7 +322,7 @@ body {
 
 .product-icon {
     font-size: 2rem;
-    color: #ED9B26;
+    color: #ed9b26;
     margin-bottom: 1rem;
 }
 
@@ -494,7 +494,7 @@ body {
 
 .service-icon {
     font-size: 3rem;
-    color: #ED9B26;
+    color: #ed9b26;
     margin-bottom: 1.5rem;
 }
 
@@ -539,7 +539,7 @@ body {
 
 .contact-card i {
     font-size: 2.5rem;
-    color: #ED9B26;
+    color: #ed9b26;
     margin-bottom: 1.5rem;
 }
 
@@ -572,7 +572,7 @@ footer {
 .footer-logo span {
     font-size: 2.5rem;
     font-weight: 800;
-    background: linear-gradient(45deg, #ED9B26, #ff8533);
+    background: linear-gradient(45deg, #ed9b26, #f8ad3e);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     letter-spacing: 2px;
@@ -590,7 +590,7 @@ footer {
 }
 
 .footer-social a:hover {
-    color: #ED9B26;
+    color: #ed9b26;
 }
 
 /* 通用样式 */
@@ -598,7 +598,7 @@ footer {
     text-align: center;
     font-size: 3rem;
     margin-bottom: 1rem;
-    background: linear-gradient(45deg, #ED9B26, #ff8533);
+    background: linear-gradient(45deg, #ed9b26, #f8ad3e);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -612,7 +612,7 @@ footer {
 
 .btn {
     padding: 1.5rem 4rem;
-    background: linear-gradient(45deg, #ED9B26, #ff8533);
+    background: linear-gradient(45deg, #ed9b26, #f8ad3e);
     color: white;
     text-decoration: none;
     border-radius: 50px;
@@ -724,7 +724,7 @@ footer {
 .about-section h3 {
     font-size: 1.8rem;
     margin-bottom: 1.5rem;
-    color: #ED9B26;
+    color: #ed9b26;
     font-weight: 600;
 }
 
@@ -789,7 +789,7 @@ footer {
 
 .contact-table td:first-child {
     width: 50px;
-    color: #ED9B26;
+    color: #ed9b26;
     font-size: 1.5rem;
 }
 
@@ -875,7 +875,7 @@ footer {
     right: 30px;
     width: 45px;
     height: 45px;
-    background: #ED9B26;
+    background: #ed9b26;
     border-radius: 12px;
     cursor: pointer;
     opacity: 0;
@@ -905,7 +905,7 @@ footer {
 }
 
 .back-to-top:hover {
-    background: #ff8533;
+    background: #f8ad3e;
     transform: translateY(-5px);
     box-shadow: 0 5px 15px rgba(255, 107, 0, 0.3);
 }
